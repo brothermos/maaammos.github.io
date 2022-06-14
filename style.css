@@ -1,3 +1,7 @@
+div {
+    outline: 1px dashed lime;
+  }
+
 * {
     margin: 0px;
     padding: 0;
@@ -349,4 +353,5 @@ footer {
     padding: 16px 24px;
     display: flex;
     justify-content: space-between;
+    
 }
